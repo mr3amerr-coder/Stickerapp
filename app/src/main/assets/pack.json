@@ -1,0 +1,136 @@
+{
+  "id": "egy_animated_1",
+  "name": "ستيكرز مصرية متحركة",
+  "publisher": "Egy Stickers",
+  "tray": "tray.png",
+  "stickers": [
+    {
+      "file": "s01.webp",
+      "emojis": [
+        "😂",
+        "🤣"
+      ],
+      "label": "هموت من الضحك"
+    },
+    {
+      "file": "s02.webp",
+      "emojis": [
+        "👍",
+        "😉"
+      ],
+      "label": "تمام يا باشا"
+    },
+    {
+      "file": "s03.webp",
+      "emojis": [
+        "😳",
+        "😱"
+      ],
+      "label": "إيه ده يا عم!"
+    },
+    {
+      "file": "s04.webp",
+      "emojis": [
+        "🙏",
+        "😊"
+      ],
+      "label": "على راسي"
+    },
+    {
+      "file": "s05.webp",
+      "emojis": [
+        "☀️",
+        "🌼"
+      ],
+      "label": "صباح الفل"
+    },
+    {
+      "file": "s06.webp",
+      "emojis": [
+        "😎",
+        "😏"
+      ],
+      "label": "أنا كده"
+    },
+    {
+      "file": "s07.webp",
+      "emojis": [
+        "😅",
+        "🤦"
+      ],
+      "label": "يا ساتر"
+    },
+    {
+      "file": "s08.webp",
+      "emojis": [
+        "😴",
+        "💤"
+      ],
+      "label": "نايم ع الواقف"
+    },
+    {
+      "file": "s09.webp",
+      "emojis": [
+        "🔥",
+        "💪"
+      ],
+      "label": "عاش يا وحش"
+    },
+    {
+      "file": "s10.webp",
+      "emojis": [
+        "😡",
+        "😤"
+      ],
+      "label": "مش فاضي"
+    },
+    {
+      "file": "s11.webp",
+      "emojis": [
+        "😍",
+        "🥰"
+      ],
+      "label": "يا قمر"
+    },
+    {
+      "file": "s12.webp",
+      "emojis": [
+        "🤔",
+        "❓"
+      ],
+      "label": "طب وبعدين؟"
+    },
+    {
+      "file": "s13.webp",
+      "emojis": [
+        "💸",
+        "😭"
+      ],
+      "label": "الجيب فاضي"
+    },
+    {
+      "file": "s14.webp",
+      "emojis": [
+        "🧿",
+        "🙏"
+      ],
+      "label": "عين وصابتك"
+    },
+    {
+      "file": "s15.webp",
+      "emojis": [
+        "🍵",
+        "☕"
+      ],
+      "label": "شاي بقى"
+    },
+    {
+      "file": "s16.webp",
+      "emojis": [
+        "🚖",
+        "😁"
+      ],
+      "label": "على طول يا أسطى"
+    }
+  ]
+}
